@@ -1,0 +1,15 @@
+.inicio{
+    display: flex;
+    display: grid;
+    width: 100%;
+    max-width: 100%;
+}
+.abajo{
+    position: absolute;
+    margin-top: 45rem;
+}
+.version{
+    display: flex;
+    margin-top: 9rem;
+    justify-self: center;  
+}
