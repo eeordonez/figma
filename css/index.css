@@ -3,12 +3,17 @@
     display: grid;
     width: 100%;
     max-width: 100%;
+    
 }
 .abajo{
+    max-width: 100%;
+
     position: absolute;
     margin-top: 45rem;
 }
 .version{
+    max-width: 100%;
+
     display: flex;
     margin-top: 9rem;
     justify-self: center;  
