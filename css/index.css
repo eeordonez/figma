@@ -5,6 +5,9 @@
     max-width: 100%;
     
 }
+.inicio1{
+    text-decoration: none;
+}
 
 .abajo{
     max-width: 100%;
@@ -17,7 +20,8 @@
 
     display: flex;
     margin-top: 9rem;
-    justify-self: center;  
+    justify-self: center;
+    
 }
 
 /* ---------------------------- */
@@ -72,12 +76,56 @@
     max-width: 100%;
 
 }
-.skip{
+.lilnkskip{
+    text-decoration: none;
     margin-left: 33rem;
     margin-top: 1rem;
     position: absolute;
     justify-content: end;
+}
+.skip{
+    
     font-size: 2rem;
+    color: purple;
+    max-width: 100%;
+
+}
+/* ------------------------- */
+.mujer{
+    max-width: 100%;
+
+    margin-top: rem;
+    margin-left: 1.4rem;
+
+}
+
+.titulo1{
+    margin-top: 10rem;
+    font-size: 3.4rem;
+    color: rgb(113, 20, 113);
+    font-weight: 600;
+    max-width: 100%;
+
+}
+.info0{
+    font-size: 1.5rem;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+
+}
+.esp1{
+
+    margin: 2rem;
+    max-width: 100%;
+
+}
+.skip1{
+    margin-left: 33rem;
+    margin-top: 1rem;
+    position: absolute;
+    justify-content: end;
+       font-size: 2rem;
     color: purple;
     max-width: 100%;
 
